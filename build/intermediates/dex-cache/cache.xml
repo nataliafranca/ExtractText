@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Natalia\AndroidStudioProjects\ExtractText1\app\libs\Aspose.Pdf.Android-1.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f641d1c2bb2811f2ef9ad8165fd08b0339db44e6">
+        <dex dex="C:\Users\Natalia\AndroidStudioProjects\ExtractText1\app\build\intermediates\pre-dexed\debug\Aspose.Pdf.Android-1.5-18ad082a93eee46f725453052d52e85b47b2b0d4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Natalia\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Natalia\AndroidStudioProjects\ExtractText1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-83f49af0f728ba78d4d8d90629282ffb03bc986e.jar" />
+    </item>
+
+</items>
